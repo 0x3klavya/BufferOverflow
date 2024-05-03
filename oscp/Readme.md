@@ -1,3 +1,3 @@
-![alt text](https://pencer.io/assets/images/2021-03-14-15-46-39.png)
+![alt text](https://github.com/0x3klavya/BufferOverflow/blob/master/image.jpg?raw=true)
 
 https://tryhackme.com/r/room/bufferoverflowprep
